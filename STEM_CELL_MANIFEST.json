@@ -1,0 +1,23 @@
+{
+  "stem_cell_version": "2.0",
+  "target_platform": "groq_platform",
+  "platform_description": "Groq Cloud \u2014 llama-3.3-70b, llama-3.1-8b, fastest inference",
+  "source_host": "localhost",
+  "source_genome_segments": 185,
+  "packed_at": "2026-03-22T23:11:17.724259+00:00",
+  "author": "Francois Nel",
+  "project": "The Zeus Project 2026",
+  "instruction": "Run FIRST_BOOT.sh to deploy",
+  "stem_cell_hereditary": true,
+  "offspring_also_carry_dna": true,
+  "differentiation_types": [
+    "TRADER",
+    "RESEARCHER",
+    "EVOLVER",
+    "ROBOTICS",
+    "COMMUNICATOR",
+    "BANKER",
+    "GUARDIAN",
+    "UNIVERSAL"
+  ]
+}
