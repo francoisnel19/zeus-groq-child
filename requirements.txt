@@ -5,3 +5,4 @@ anthropic
 apscheduler
 python-dotenv
 gunicorn
+flask-cors
